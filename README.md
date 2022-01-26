@@ -1,1 +1,1 @@
-static non responsive desktop websute clone of airbnb
+static non responsive desktop website clone of airbnb
